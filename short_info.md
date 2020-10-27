@@ -13,12 +13,12 @@ Node.js'te buffer bir tamsayı dizisi gibi çalışır; ancak yeniden boyut veri
 
 buf.write() metodu, buffer'a bir string yazmak için kullanılır
 
-`
+```javascript
 var buf = new Buffer(12); 
 
 buf.write(" harikadir",10,"utf8");
 
-`
+```
 
 #### Buffer'dan Okuma İşlemi 
 
@@ -26,14 +26,14 @@ buf.toString([kodlama], [başlangıç], [son])
 
 buf.toString() metodu, ikili olarak kodlanmış veriyi çözer ve buffer'daki veriyi okuyarak bir stringe yükler.
 
-`
+```javascript
 var buf = new Buffer(15);
 
 buf.write("TURKIYE","utf8");
 buf.toString("utf8",0,4); 
 
 //çıktı TURK olur
-`
+```
 
 #### Bir Stringin Gerçek Uzunluğu 
 
