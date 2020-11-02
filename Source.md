@@ -4,3 +4,4 @@
 - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff)
 - [JavaScript Nasıl Çalışır?](http://devnot.com/2020/javascript-nasil-calisir/)
 - [Popüler 10 Nodejs Paketi](https://medium.com/batech/pop%C3%BCler-10-nodejs-paketi-6b1afe21a01c)
+- [es6 türkçe kaynaklar](https://github.com/fatihhayri/es6-turkce-kaynaklar)
