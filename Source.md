@@ -5,3 +5,4 @@
 - [JavaScript Nasıl Çalışır?](http://devnot.com/2020/javascript-nasil-calisir/)
 - [Popüler 10 Nodejs Paketi](https://medium.com/batech/pop%C3%BCler-10-nodejs-paketi-6b1afe21a01c)
 - [es6 türkçe kaynaklar](https://github.com/fatihhayri/es6-turkce-kaynaklar)
+- [Asenkron yapılarda callback kullanımı](https://medium.com/@kahil_kubilay/javascript-asenkron-yap%C4%B1larda-callback-function-kullan%C4%B1m%C4%B1-7d6663691335)
